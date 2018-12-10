@@ -1,3 +1,3 @@
-# Titolo sito
+Titolo sito
 
 - blabla
