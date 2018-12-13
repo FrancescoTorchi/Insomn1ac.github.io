@@ -2,4 +2,4 @@
 
 - blabla
 
-![image](defo_1.png)
+![image](Images/defo_1.png)
