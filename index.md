@@ -10,6 +10,7 @@ I also like to work on *serious games*, help people see things from a different 
 # **Projects**
 
 
+
 ## **Deforestation Sim** (*wip*)
 
 
@@ -17,6 +18,7 @@ I also like to work on *serious games*, help people see things from a different 
 
 
 ![image](Images/defo_1.png)
+
 
 ## **Mirror Worlds** (*wip*)
 
@@ -30,6 +32,7 @@ I also like to work on *serious games*, help people see things from a different 
 **Nuke Alarm** is a single player puzzle game where the player plays the role of the Secretary of State of different countries. His goal is to avoid a nuclear war; in order to do that, he will have to analyze the information at his disposal and figure out whether the threats are true or false.
 
 ![image](Images/nukealarm_sfondo.png)
+
 
 ## **Don't Listen** 
 
