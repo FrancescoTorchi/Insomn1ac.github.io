@@ -9,6 +9,7 @@ I also like to work on *serious games*, help people see things from a different 
 
 # **Projects**
 
+
 ## **Deforestation Sim** (*wip*)
 
 
@@ -17,7 +18,7 @@ I also like to work on *serious games*, help people see things from a different 
 
 ![image](Images/defo_1.png)
 
-## Mirror Worlds (*wip*)
+## **Mirror Worlds** (*wip*)
 
 **Mirror Worlds** is a single player puzzle game where the player, in order to reach it's goal, will have to redirect a ray of light using mirrors.
 
@@ -37,7 +38,8 @@ I also like to work on *serious games*, help people see things from a different 
 [![Don't Listen Tutorial](https://www.youtube.com/watch?v=ab5IlheWoHg)](https://www.youtube.com/watch?v=ab5IlheWoHg "Don't Listen Tutorial")
 
 
-## **Other Projects**
+# **Other Projects**
+
 
 ## **Loot & Magic** 
 
